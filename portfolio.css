@@ -1,0 +1,151 @@
+header{
+    background-color: aliceblue;
+    color:black;
+    height:40px;
+    padding-top: 2px;
+    padding-left:10px;
+    position: sticky;
+    top: 10px;
+}
+header ul li{
+    width:70px;
+    height:50px;
+    padding-left: 10px;
+    margin-left: -20px;
+}
+header ul li:hover{
+    background-color: transparent;
+    font-size:20px;
+}
+#Home p{
+    border:5px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 400px;
+    height:300px;
+    background-color:aliceblue;
+    box-shadow: 20px 20px 20px teal;
+    margin-left: 600px;
+    margin-top:-250px;
+    margin-bottom: 200px;
+    color:black;
+    padding-left: 50px;
+    padding-right:50px;  
+    font-size:x-large;
+}
+#Home h1{
+    color:aliceblue;
+}
+#Home img{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+header nav ul li a{
+    color: aliceblue;
+    display: inline;
+}
+#about h1{
+    color: aliceblue;
+    margin-top:-130px;
+}
+#about h2{
+    color: rgb(230, 233, 11);
+    padding-left: 100px;
+}
+#Home img{
+    border-radius: 50px;
+    margin-left: 200px;
+}
+#about .progress{
+    width: 450px;
+    margin-left: 100px;
+}
+#about p{
+    border:5px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 400px;
+    height:500px;
+    background-color:aliceblue;
+    box-shadow: 20px 20px 20px teal;
+    margin-left: 600px;
+    margin-top:-250px;
+    margin-bottom: 200px;
+    color:black;
+    padding-left: 50px;
+    padding-right:50px;  
+    padding-top: 30px;
+}
+#Contact h1{
+color: aliceblue;
+margin-top: -130px;
+}div .h1{
+    background-color: black;
+    color: aquamarine;
+}
+#Contact h2{
+    color: aliceblue;
+    margin-left: 100px;
+}
+#Contact ul{
+    color: aliceblue;
+    margin-left: 100px;
+}
+#Contact div{
+border: 5px;
+width:420px;
+height:385px;
+border-style: solid;
+padding-top: 50px;
+padding-left: 60px;
+padding-right: 50px;
+margin-left:400px;
+background-color: aliceblue;
+box-shadow: 20px 20px 20px teal;
+}
+#Contact input[type="submit"]{
+    padding-left: 10px;
+    width:100px;
+    margin-left: 100px;
+    background:green;
+    color:white;
+}
+#Contact input[type="text"]{
+    width:290px;
+    background: transparent;
+}
+#Contact input[type="tel"]{
+    width:290px;
+    background: transparent;
+}
+#Contact input[type="email"]{
+    width:290px;
+    background: transparent;
+}
+#Certificates h1{
+    color: aliceblue;
+margin-top: 130px;
+}
+#Certificates p{
+    border:5px;
+    border-style: solid;
+    border-color: aliceblue;
+    width: 400px;
+    height:650px;
+    background-color:aliceblue;
+    box-shadow: 20px 20px 20px teal;
+    margin-left: 650px;
+    margin-top:-350px;
+    margin-bottom: 200px;
+    color:black;
+    padding-left: 50px;
+    padding-right:50px;  
+    padding-top: 30px;
+}
+#Certificates div img{
+    margin-top: 100px;
+    margin-left: 150px;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
